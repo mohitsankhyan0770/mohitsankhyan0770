@@ -1,16 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:DA70D6&height=220&section=header&text=Mohit%20Sankhyan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Building+Backend+Systems+%F0%9F%92%BB;Exploring+Agentic+AI+%F0%9F%A4%96;Working+with+LLMs+%26+Local+AI+%F0%9F%A7%A0;Turning+Ideas+into+Working+Software+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:7C3AED&height=230&section=header&text=Mohit%20Sankhyan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=61&descSize=18" width="100%"/>
 
 <br>
 
-<a href="https://github.com/mohitsankhyan0770">
-<img src="https://komarev.com/ghpvc/?username=mohitsankhyan0770&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Backend+Systems+%F0%9F%92%BB;Exploring+Agentic+AI+%F0%9F%A4%96;Working+with+LLMs+%26+Machine+Learning;Turning+Ideas+into+Working+Software+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/mohit-sankhyan-a11733230/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
+<a href="mailto:sankhyanmohit0770@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/mohitsankhyan0770">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" alt="Coding animation"/>
 
 </div>
 
@@ -18,92 +34,61 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MohitSankhyan:
+I'm a **Backend Developer and AI/ML enthusiast** focused on building practical and scalable software systems.
 
-    name = "Mohit Sankhyan"
-    location = "India"
-    education = "B.E. Computer Science Engineering"
+My primary focus is **Python, Flask, PostgreSQL and REST APIs**, with additional experience in **React, Node.js and Express.js**.
 
-    focus = [
-        "Backend Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Agentic AI",
-        "Full-Stack Development"
-    ]
+I'm particularly interested in **LLMs and Agentic AI**, experimenting with local models, tool calling, memory systems, planning and self-evaluation.
 
-    currently_building = "AI-powered & scalable backend systems"
-
-    interests = [
-        "AI / LLMs",
-        "Software Development",
-        "Gaming",
-        "Photography",
-        "Animation"
-    ]
-```
-
-I'm a **Computer Science Engineering graduate** focused on building reliable backend systems and experimenting with AI-driven applications.
-
-My current interests are **Python backend development, REST APIs, PostgreSQL, Machine Learning, NLP, LLMs, and Agentic AI**.
-
-I like taking an idea, turning it into a working system, and then figuring out how to make it better. 🚀
+I enjoy turning ideas into working software and continuously improving my engineering skills through hands-on projects.
 
 ---
 
-## ⚡ What I Work With
+# 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-### 🧠 AI / ML
+### 💻 Languages
 
-* Machine Learning
-* NLP
-* TensorFlow
-* LLMs
-* Agentic AI
-* Local LLMs
-* Tool Calling
-* ChromaDB
-* Ollama
+<img src="https://skillicons.dev/icons?i=python,js" alt="Python and JavaScript"/>
 
-</td>
+<br><br>
 
-<td valign="top" width="33%">
+### ⚙️ Backend & Database
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,postgres" alt="Flask, Node.js, Express.js and PostgreSQL"/>
 
-* Python
-* Flask
-* Node.js
-* Express.js
-* REST APIs
-* PostgreSQL
-* Authentication
-* Database Design
+<br><br>
 
-</td>
+### 🌐 Frontend
 
-<td valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="React, HTML, CSS and Bootstrap"/>
 
-### 🌐 Full Stack
+<br><br>
 
-* JavaScript
-* React
-* HTML
-* CSS
-* Bootstrap
-* Git
-* GitHub
-* Ethereum
-* Solidity
+### 🤖 AI / Machine Learning
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge"/>
+
+<br><br>
+
+### ⛓️ Blockchain & Tools
+
+<img src="https://skillicons.dev/icons?i=ethereum,solidity,git,github" alt="Ethereum, Solidity, Git and GitHub"/>
+
+</div>
 
 ---
 
@@ -111,148 +96,134 @@ I like taking an idea, turning it into a working system, and then figuring out h
 
 <div align="center">
 
-### 🤖 Agentic AI System
+## 🤖 Agentic AI System
 
-**Multi-Agent LLM • Local AI • Tool Calling**
+### Multi-Agent LLM · Local AI · Tool Calling
 
 </div>
 
-> An autonomous AI system built around local LLMs, designed to plan tasks, use tools, maintain memory, and evaluate its own responses.
+An autonomous AI system built around **local LLMs**, designed to plan tasks, use tools, maintain memory and evaluate its own responses.
 
-**Highlights**
+**Tech:** `Python` · `LLMs` · `Ollama` · `ChromaDB`
+
+### Key Features
 
 * 🧩 Multi-agent architecture
-* 🧠 Planning & reasoning
+* 🧠 Planning and reasoning
 * 🔧 Tool-calling capabilities
-* 💾 Long-term memory with ChromaDB
+* 💾 Persistent memory with ChromaDB
 * 🔍 Self-critic module
-* 🏠 Local LLM execution using Ollama
+* 🏠 Local LLM execution
 
-<br>
+---
 
 <div align="center">
 
-### 🏥 Hospital Management System
+## 🏥 Hospital Management System
 
-**Python • Flask • PostgreSQL • REST APIs**
+### Backend · REST APIs · PostgreSQL
 
 </div>
 
-> A backend-focused hospital management platform designed around secure authentication, structured database architecture, APIs, and analytics.
+A hospital management platform currently under development, focused on **secure backend architecture, database management and REST APIs**.
 
-**Highlights**
+**Tech:** `Python` · `Flask` · `PostgreSQL` · `REST APIs`
+
+### Key Features
 
 * 🔐 Role-based authentication
-* 🗄️ PostgreSQL database
-* 🔌 REST API architecture
+* 🗄️ PostgreSQL database architecture
+* 🔌 REST API development
 * 📊 Analytics dashboard
-* ⚙️ Structured backend design
+* ⚙️ Structured backend architecture
 
-<br>
+---
 
 <div align="center">
 
-### ⛓️ Blockchain Voting System
+## ⛓️ Blockchain Voting System
 
-**React • Ethereum • Smart Contracts • Ganache**
+### React · Ethereum · Smart Contracts
 
 </div>
 
-> A decentralized voting application using Ethereum smart contracts with a React-based interface.
+A decentralized voting application built using **Ethereum smart contracts and React**.
 
-**Highlights**
+**Tech:** `React` · `Ethereum` · `Solidity` · `Ganache`
+
+### Key Features
 
 * ⛓️ Ethereum smart contracts
-* ⚛️ React frontend
 * 🗳️ Decentralized voting
+* ⚛️ React frontend
 * 🧪 Ganache testing
 * 🔐 Blockchain-based architecture
 
 ---
 
-# 🏆 Certifications
+# ⚡ Current Focus
 
 <div align="center">
 
-| Certification                                         | Provider |
-| :---------------------------------------------------- | :------: |
-| Full Stack Software Developer                         |    IBM   |
-| Introduction to Cloud Computing                       |    IBM   |
-| Developing Front-End Apps with React                  |    IBM   |
-| Django Application Development with SQL and Databases |    IBM   |
-| Principles of UX/UI Design                            |   Meta   |
-| Blockchain Scalability and Distributed Systems        |     —    |
+| 🧠 AI & LLMs |   ⚙️ Backend   | 🌐 Full-Stack |
+| :----------: | :------------: | :-----------: |
+|  Agentic AI  | Python & Flask |     React     |
+|  Local LLMs  |    REST APIs   |   JavaScript  |
+| Tool Calling |   PostgreSQL   |    Node.js    |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Building · Learning · Improving
+
+`Python` · `Flask` · `PostgreSQL` · `React` · `LLMs` · `Ollama`
 
 </div>
 
 ---
 
-# 🎓 Education
+# 🎯 What I'm Interested In
 
-### Chandigarh University
+<div align="center">
 
-**B.E. — Computer Science Engineering**
+**Backend Engineering**  •  **AI/ML**  •  **Agentic AI**
+**LLM Applications**  •  **Full-Stack Development**  •  **Software Engineering**
 
-`2021 — 2025` · `CGPA: 7.3 / 10`
+</div>
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohit-sankhyan-a11733230/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+  
 
 <a href="mailto:sankhyanmohit0770@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+  
 
 <a href="https://github.com/mohitsankhyan0770">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
----
-
-# 📊 GitHub Analytics
+<br><br>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohitsankhyan0770&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+### Thanks for visiting! 👋
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsankhyan0770&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohitsankhyan0770&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *Build. Break. Learn. Repeat.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,50:8A2BE2,100:6A0DAD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
